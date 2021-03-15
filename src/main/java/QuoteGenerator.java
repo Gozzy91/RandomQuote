@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author 35385
+ * @author Brendan Phelan
  */
 public class QuoteGenerator extends javax.swing.JFrame {
 
